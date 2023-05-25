@@ -1,4 +1,4 @@
-# Trabalhos-Cesar-School
+Documentação
 Documentação do Sistema de Rastreamento de Despesas Pessoais
 FP B // Professores: Carol Melo // Mateus Valgueiro
 Grupo: 
