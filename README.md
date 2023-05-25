@@ -77,3 +77,5 @@ Observações:
 Utilize as opções do menu para interagir com o sistema. Digite o número correspondente à opção desejada e pressione Enter.
 Aproveite o Sistema de Rastreamento de Despesas Pessoais e tenha um bom controle financeiro!
 
+![WhatsApp Image 2023-05-25 at 08 39 12](https://github.com/burle77/Trabalhos-Cesar-School/assets/110929191/fc77ebd1-2bd0-40b8-a31b-b3b1dc65b225)
+
