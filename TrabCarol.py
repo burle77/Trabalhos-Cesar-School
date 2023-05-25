@@ -217,10 +217,10 @@ def menu():
             elif opcao == "5":
                 limpar_tela()
                 mostrar_extrato()
-            elif opcao == "6":  # Alterado para 6
+            elif opcao == "6":  
                 limpar_tela()
                 mostrar_extrato_em_moeda()
-            elif opcao == "7":  # Alterado para 7
+            elif opcao == "7":  
                 limpar_tela()
                 adicionar_taxa_cambio()
             elif opcao == "0":
